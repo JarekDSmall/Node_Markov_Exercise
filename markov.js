@@ -43,3 +43,5 @@ class MarkovMachine {
     return text;
   }
 }
+
+module.exports = MarkovMachine;  // Export the MarkovMachine class
